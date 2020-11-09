@@ -2170,14 +2170,21 @@ input, select, textarea {
 	}
 
 		.wrapper.style2 {
-			padding-top: 0;
+			padding-top: 7em;
+			padding-bottom: 10em;
+			/*background-color: #2f0c49;*/
+			background-image: url("../../images/try1.jpg");
+			background-size: cover;
+			background-position: center center;
+			background-attachment: fixed;
+			color: #fff;
 		}
 
 /* Header */
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/header.gif");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;

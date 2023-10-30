@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: True # crops the image to make it circular
   more_info: >
-    <p>Office of the Director General</p>
-    <p>Philippine Space Agency </p>
+    <p>leal.lois.anne@gmail.com</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

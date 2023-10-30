@@ -7,7 +7,7 @@ subtitle: Senior Science Research Specialist. Computer Vision. Machine Learning.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   more_info: >
     <p>Office of the Director General</p>
     <p>Philippine Space Agency </p>

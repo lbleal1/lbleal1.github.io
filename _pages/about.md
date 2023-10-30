@@ -2,14 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Science Research Specialist. Computer Vision. Machine Learning. Data Science.
+subtitle: Researcher @ Philippine Space Agency. MSc from University of Surrey (CVSSP), UK.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: True # crops the image to make it circular
   more_info: >
-    <p>leal.lois.anne@gmail.com</p>
+    <p> Office of the Director General </p>
+    <p> Eastwood Ave. Quezon City </p>
+    <p>leal.lois.anne@gmail.com </p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -17,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am a Senior Research Science Specialist at the Philippine Space Agency, working on Computer Vision and Data Analysis focusing on satellite data.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I just finished my Computer Vision, Robotics, and Machine Learning MSc at the University of Surrey with a dissertation focusing on the reliability assessment of computer vision models. My supervisor was Miroslaw Bober. I plan to take my PhD by 2025 or 2026. I'm primarily interested with improving the reliability of AI models against out-of-distribution (OOD) data through Domain Generalization and Continual Learning.

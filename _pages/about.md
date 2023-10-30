@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>A</a>. Address. Contacts. Moto. Etc.
+subtitle: Senior Science Research Specialist. Computer Vision. Machine Learning. Data Science.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Office of the Director General</p>
-    <p>29th Floor, Cyber One Building </p>
-    <p>11 Eastwood Ave. Bagumbayan, Quezon City</p>
+    <p>Philippine Space Agency </p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

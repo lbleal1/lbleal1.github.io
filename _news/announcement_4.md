@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-(Plenary Session Talk - Future of Data: Current Trends in Big Data and Data Analytics) Analyzing the Philippines from Space @2nd PH Data Festival 
+Presented at the Plenary Session and joined the Open Forum - Future of Data: Current Trends in Big Data and Data Analytics @2nd PH Data Festival 

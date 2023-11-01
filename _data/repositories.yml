@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - lbleal1
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - lbleal1/TensorFlow-Dev-Exam-Preparation
+  - lbleal1/pytorch-playground
+  - lbleal1/Deep-Learning-Specialization
+  - lbleal1/Machine-Learning-Andrew-Ng

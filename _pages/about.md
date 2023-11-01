@@ -1,8 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle:    
+permalink: /  
 
 profile:
   align: right
@@ -18,7 +17,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-AI Researcher @ [Philippine Space Agency](https://philsa.gov.ph/). MSc (Distinction) from the [Uni of Surrey (CVSSP)](https://www.surrey.ac.uk/centre-vision-speech-signal-processing). 
+[AI Researcher @ Philippine Space Agency](https://philsa.gov.ph/). [MSc (Distinction) from the Uni of Surrey (CVSSP)](https://www.surrey.ac.uk/centre-vision-speech-signal-processing). 
 
 Hi! I'm Lois (Lowis)! I am currently a Senior Research Science Specialist at the Philippine Space Agency (PhilSA), where I am responsible for implementing and designing prototypes up to the operationalization of AI systems, with a primary focus on Computer Vision systems for Earth Observation data. We incorporate the latest research in the field and develop our own approaches to implement our systems, which serve as tools to enable PhilSA to deliver value efficiently.
 

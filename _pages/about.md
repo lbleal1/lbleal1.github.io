@@ -7,7 +7,7 @@ subtitle: AI Researcher @ [Philippine Space Agency](https://philsa.gov.ph/). MSc
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: True # crops the image to make it circular
+  image_circular: False # crops the image to make it circular
   more_info: >
     <p> Philippine Space Agency </p>
     <p> Eastwood Ave. Quezon City </p>

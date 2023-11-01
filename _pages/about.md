@@ -22,8 +22,6 @@ AI Researcher @ [Philippine Space Agency](https://philsa.gov.ph/). MSc (Distinct
 
 Hi! I'm Lois (Lowis)! I am currently a Senior Research Science Specialist at the Philippine Space Agency (PhilSA), where I am responsible for implementing and designing prototypes up to the operationalization of AI systems, with a primary focus on Computer Vision systems for Earth Observation data. We incorporate the latest research in the field and develop our own approaches to implement our systems, which serve as tools to enable PhilSA to deliver value efficiently.
 
-I specialize in Computer Vision, Machine Learning, and Deep Learning. 
-
 Recently, I finished my Computer Vision, Robotics, and Machine Learning MSc from the [Uni of Surrey](https://www.surrey.ac.uk/centre-vision-speech-signal-processing). My dissertation was done under the supervision of [Prof Dr Miroslaw Bober](https://www.surrey.ac.uk/people/miroslaw-bober) and was externally examined by [Dr Muhammad Awais Rana](https://www.surrey.ac.uk/people/muhammad-awais). It focused on the reliability assessment of computer vision models which later was nominated to the department's MSc Project Prize. 
 
 Research Interests:

@@ -30,5 +30,5 @@ Research Interests:
 * OOD/Distribution Shifts
 * Reliable/Trustworthy AI
 
-I am currently rendering my return of service for the country and working hard to prepare for my PhD by the end of 2026!
+I am currently rendering my return of service for the country and working hard to prepare for my PhD by the end of 2026!jhjkhkcjh
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Got a Senior Science Research Specialist position at the Philippine Space Agency!
+Started working as a Senior Science Research Specialist at the Philippine Space Agency

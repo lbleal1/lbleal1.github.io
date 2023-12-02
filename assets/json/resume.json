@@ -3,7 +3,7 @@
     "name": "Lois Anne Leal",
     "image": "",
     "email": "leal.lois.anne@gmail.com",
-    "url": "https://lbleal1.github.io/",
+    "url": "https://lbleal1.github.io",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -35,15 +35,39 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "University of Surrey, Surrey, United Kingdom",
+      "url": "https://www.surrey.ac.uk/centre-vision-speech-signal-processing",
+      "area": "Computer Vision, Robotics, and Machine Learning",
+      "studyType": "MSc",
+      "startDate": "2022.02",
+      "endDate": "2023.02",
       "courses": [
-        "Theory of Relativity"
+        "Computer Vision and Pattern Recognition",
+        "Image Processing and Deep Learning",
+        "AI and AI Programming",
+        "Image and Video Compression",
+        "Robotics",
+        "Satellite Remote Sensing",
+        "Speech and Audio Processing and Recognition",
+        "Internet of Things"
+      ]
+    },
+    {
+      "institution": "University of the Philippines, Diliman, Philippines",
+      "url": "https://upd.edu.ph/",
+      "area": "Computer Science",
+      "studyType": "BSc",
+      "startDate": "2016.08",
+      "endDate": "2020.06",
+      "courses": [
+        "Computer Vision and Pattern Recognition",
+        "Image Processing and Deep Learning",
+        "AI and AI Programming",
+        "Image and Video Compression",
+        "Robotics",
+        "Satellite Remote Sensing",
+        "Speech and Audion Processing and Recognition",
+        "Internet of Things"
       ]
     }
   ],

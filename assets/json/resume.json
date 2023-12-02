@@ -24,7 +24,7 @@
       "name": "Philippine Space Agency",
       "position": "Senior Research Science Specialist",
       "url": "https://philsa.gov.ph/",
-      "startDate": "2023.06.05",
+      "startDate": "2023",
       "endDate": "present",
       "summary": "",
       "highlights": [
@@ -112,7 +112,7 @@
       "awarder": "University of the Philippines Diliman"
     }
   ],
-  "certificates": ["TensorFlow Developer Exam", "TOEFL iBT"],
+  "certificates": [],
   "publications": [],
   "skills": [],
   "languages": [

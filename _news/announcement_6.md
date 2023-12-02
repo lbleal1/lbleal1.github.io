@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended the HPC Fundamentals Workshop hosted by UP Diliman College of Engineering
+Attended the HPC Fundamentals Workshop and the High Performance Computing Conference (HPCN 2023)

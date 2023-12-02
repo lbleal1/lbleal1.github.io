@@ -77,7 +77,7 @@
         "Computer Networks",
         "Operating Systems",
         "Computer Security",
-        "Computer Organization and Assembly Language Programming",,
+        "Computer Organization and Assembly Language Programming",
         "Automata Theory and Computability",
         "GIS and Spatial Analysis",
         "Mobile Trends",
@@ -109,7 +109,7 @@
     {
       "title": "BSc Cum Laude (standing), consistent Dean's Lister (College Scholar), Rank 9 out of 81 CS Students",
       "date": "2020",
-      "awarder": "University of the Philippines Diliman",
+      "awarder": "University of the Philippines Diliman"
     }
   ],
   "certificates": ["TensorFlow Developer Exam", "TOEFL iBT"],

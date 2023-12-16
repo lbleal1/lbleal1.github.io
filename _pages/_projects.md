@@ -1,3 +1,4 @@
+<!-- to activate, edit filename from _projects.md to projects.md-->
 ---
 layout: page
 title: projects

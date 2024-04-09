@@ -26,12 +26,11 @@ Hi! I'm Lois (Lowis)! I am currently working as an Information Technology Office
 * contribute to the discussions and provide technical expertise in the implementation of PhilSA's planned and ongoing programs, projects, and activities
 * assist the PhilSA technical divisions by providing relevant expertise in satellite image processing
 
-Recently, I finished my Computer Vision, Robotics, and Machine Learning MSc from the [Uni of Surrey](https://www.surrey.ac.uk/centre-vision-speech-signal-processing). My dissertation was done under the supervision of [Prof Dr Miroslaw Bober](https://www.surrey.ac.uk/people/miroslaw-bober) and was externally examined by [Dr Muhammad Awais Rana](https://www.surrey.ac.uk/people/muhammad-awais). It focused on the reliability assessment of computer vision models which later was nominated to the department's MSc Project Prize. 
+I finished my Computer Vision, Robotics, and Machine Learning MSc from the [Uni of Surrey](https://www.surrey.ac.uk/centre-vision-speech-signal-processing). My dissertation was done under the supervision of [Prof Dr Miroslaw Bober](https://www.surrey.ac.uk/people/miroslaw-bober) and was externally examined by [Dr Muhammad Awais Rana](https://www.surrey.ac.uk/people/muhammad-awais). It focused on the reliability assessment of computer vision models which later was nominated to the department's MSc Project Prize. 
 
 Research Interests:
-* Multimodal
+* AI/CV/Data Science for Earth Observation
 * Domain Generalization and Adaptation
-* Continuous Learning 
 * OOD/Distribution Shifts
 * Reliable/Trustworthy AI
 

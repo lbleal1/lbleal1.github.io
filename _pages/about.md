@@ -17,9 +17,14 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-[AI Researcher @ Philippine Space Agency](https://philsa.gov.ph/). [MSc (Distinction) from the Uni of Surrey (CVSSP)](https://www.surrey.ac.uk/centre-vision-speech-signal-processing). 
+[AI/CV/Data Science @ Philippine Space Agency](https://philsa.gov.ph/). [MSc (Distinction) from the Uni of Surrey (CVSSP)](https://www.surrey.ac.uk/centre-vision-speech-signal-processing). 
 
-Hi! I'm Lois (Lowis)! I am currently a Senior Research Science Specialist at the Philippine Space Agency (PhilSA), where I am responsible for implementing and designing prototypes up to the operationalization of AI systems, with a primary focus on Computer Vision systems for Earth Observation data. We incorporate the latest research in the field and develop our own approaches to implement our systems, which serve as tools to enable PhilSA to deliver value efficiently.
+Hi! I'm Lois (Lowis)! I am currently working as an Information Technology Officer at the Philippine Space Agency (PhilSA). My duties and responsibilities include:
+* conduct research and development related to AI and determine the applicability of research results to the implementation of other PhilSA research and projects, and collaborate with internal and external divisions/offices in the application of these R&D results
+* design, implement, and facilitate training sessions on topics resulting from technical research
+* perform know-how technology transfer through seminars and/or workshops for PhilSA personnel and external stakeholders
+* contribute to the discussions and provide technical expertise in the implementation of PhilSA's planned and ongoing programs, projects, and activities
+* assist the PhilSA technical divisions by providing relevant expertise in satellite image processing
 
 Recently, I finished my Computer Vision, Robotics, and Machine Learning MSc from the [Uni of Surrey](https://www.surrey.ac.uk/centre-vision-speech-signal-processing). My dissertation was done under the supervision of [Prof Dr Miroslaw Bober](https://www.surrey.ac.uk/people/miroslaw-bober) and was externally examined by [Dr Muhammad Awais Rana](https://www.surrey.ac.uk/people/muhammad-awais). It focused on the reliability assessment of computer vision models which later was nominated to the department's MSc Project Prize. 
 

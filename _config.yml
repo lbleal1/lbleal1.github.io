@@ -168,6 +168,8 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+    limit: 5
+    scrollable: true 
   projects:
     output: true
     permalink: /projects/:path/

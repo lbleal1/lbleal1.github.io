@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One of PhilSA's representatives for the Philippine Air Force C4S Family Conference 
+Represented PhilSA in an AI/ML Lecture during the Philippine Air Force C4S Family Conference 

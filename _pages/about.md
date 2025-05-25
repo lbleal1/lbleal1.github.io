@@ -36,5 +36,5 @@ Research Interests:
 
 I am currently rendering my return of service for the country and working hard to prepare for my PhD by late 2026!
 
-Last update: 25 May 2025 (This page has not been fully updated. Updating process is ongoing.)
+Last update: 25 May 2025 (This page is still being updated.)
 

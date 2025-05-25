@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 [AI/CV/Data Science @ Philippine Space Agency](https://philsa.gov.ph/). [MSc (Distinction) from the Uni of Surrey (CVSSP)](https://www.surrey.ac.uk/centre-vision-speech-signal-processing). 
 
-Hi! I'm Lois (Lowis)! I am currently working as an Information Technology Officer at the Philippine Space Agency (PhilSA). My duties and responsibilities include:
+Hi! I'm Lois (Lowis)! I am currently working as a Project Technical Officer IV at the Philippine Space Agency (PhilSA). My duties and responsibilities include:
 * conduct research and development related to AI and determine the applicability of research results to the implementation of other PhilSA research and projects, and collaborate with internal and external divisions/offices in the application of these R&D results
 * design, implement, and facilitate training sessions on topics resulting from technical research
 * perform know-how technology transfer through seminars and/or workshops for PhilSA personnel and external stakeholders
@@ -34,7 +34,7 @@ Research Interests:
 * OOD/Distribution Shifts
 * Reliable/Trustworthy AI
 
-I am currently rendering my return of service for the country and working hard to prepare for my PhD by the end of 2025 or 2026!
+I am currently rendering my return of service for the country and working hard to prepare for my PhD by late 2026!
 
-Last update: 25 February 2024
+Last update: 25 May 2025 (This page has not been fully updated. Updating process is ongoing.)
 

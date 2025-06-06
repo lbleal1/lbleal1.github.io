@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: new_dp.jpg
+  image: new_prof_pic.jpg
   image_circular: False # crops the image to make it circular
   more_info: >
     <p> Philippine Space Agency </p>
